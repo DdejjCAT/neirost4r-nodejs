@@ -1,0 +1,27 @@
+{
+  "name": "neirost4r",
+  "version": "1.0.0",
+  "description": "NodeJS client for fenst4r.life API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DdejjCAT/neirost4r-nodejs.git"
+  },
+  "keywords": [
+    "ai",
+    "chat",
+    "fenst4r",
+    "client",
+    "python",
+    "javascript"
+  ],
+  "author": "FENST4R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DdejjCAT/neirost4r-nodejs/issues"
+  },
+  "homepage": "https://github.com/DdejjCAT/neirost4r-nodejs#readme"
+}
