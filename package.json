@@ -1,10 +1,13 @@
 {
   "name": "neirost4r",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS client for fenst4r.life API",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.4.0"
   },
   "repository": {
     "type": "git",
@@ -15,7 +18,6 @@
     "chat",
     "fenst4r",
     "client",
-    "python",
     "javascript"
   ],
   "author": "FENST4R",
